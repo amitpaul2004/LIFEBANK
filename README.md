@@ -5,6 +5,11 @@
 **Description:**
 LifeBanked is a static website designed to provide a comprehensive platform for organ and blood donation. Our mission is to educate, raise awareness, and facilitate the donation process, ultimately saving countless lives. The website features a user-friendly interface, easy-to-navigate menu, and informative content to guide users through the donation process.
 
+**Preview:**
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/203e3874-fa35-4d7f-abb9-1e22d7fbc191" />
+
+
+
 **Features:**
 
 1. 📊 **Organ and Blood Donation Information**: Detailed information on organ and blood donation, including eligibility, benefits, and the process.
